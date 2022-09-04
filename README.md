@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravindu Madhubhashana</h1>
+<h1 align="center">Hi 👋, I'm Ravindu Lakshan Madhubhashana</h1>
 <h3 align="center">3rd year Computer Science Undergraduate @ University of Colombo School of Computing</h3>
 
 - 🔭 I’m currently working on **WorkEase**
