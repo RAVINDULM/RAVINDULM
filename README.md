@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravindu Lakshan Madhubhashana</h1>
+<h1 align="center">Hey there! 👋, I'm Ravindu Lakshan Madhubhashana</h1>
 <h3 align="center">3rd year Computer Science Undergraduate @ University of Colombo School of Computing</h3>
 
 - 🔭 I’m currently working on **WorkEase**
@@ -9,7 +9,7 @@
 
 <!-- - 📝 I regularly write articles on (Since 2022) [https://medium.com/@ravindu.kp](https://medium.com/@ravindu.kp) -->
 
-- 📫 How to reach me **ravindu.kp@gmail.com / (+94) 76 65 81 992**
+- 📫 How to reach me **ravindu.kp@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1p_ZM9AZVmR_NUx0BIy94ONzKF-r-IAv7?usp=sharing](https://drive.google.com/drive/folders/1p_ZM9AZVmR_NUx0BIy94ONzKF-r-IAv7?usp=sharing)
 
