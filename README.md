@@ -53,6 +53,7 @@
 <a href="https://medium.com/@ravindu.kp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ravindu.kp" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravindu_kp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravindu_kp" height="30" width="40" /></a>
 </p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ravindulm&show_icons=true&locale=en" alt="ravindulm" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindulm&" alt="ravindulm" /></p>
 
+<p style="margin : 30px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindulm&show_icons=true&locale=en" alt="ravindulm" /></p>
+
+<p style="margin : 30px;" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindulm&" alt="ravindulm" /></p>
