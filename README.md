@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ravindu.kp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1p_ZM9AZVmR_NUx0BIy94ONzKF-r-IAv7?usp=sharing](https://drive.google.com/drive/folders/1p_ZM9AZVmR_NUx0BIy94ONzKF-r-IAv7?usp=sharing)
+- 📄 Download my resume  [https://bit.ly/3AGeKeE](https://bit.ly/3AGeKeE)
 
 <h3 align="left">Familiar Technologies</h3>
 
