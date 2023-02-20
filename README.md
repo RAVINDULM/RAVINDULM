@@ -1,11 +1,11 @@
 <h1 align="center">Hey there! 👋, I'm Ravindu Lakshan Madhubhashana</h1>
 <h3 align="center">3rd year Computer Science Undergraduate @ University of Colombo School of Computing</h3>
-
+ Profile views : [![HitCount](https://hits.dwyl.com/RAVINDULM/RAVINDULM.svg?style=flat-square)](http://hits.dwyl.com/RAVINDULM/RAVINDULM)
 <h3 align="left">More About Me 🙂</h3>
 
-- 🔭 I’m currently working on **WorkEase**
+- 🔭 I’m currently working as a Intern Software Engineer @**Entgra.io**
 
-- 🌱 I’m currently learning **.NET, Angular, Firebase, ReactJS, React Native & Flutter**
+- 🌱 I’m currently learning **Devops, Angular, ReactJS, React Native, .NET, Firebase & Flutter**
 
 - 👯 I’m currently collaborate on **SLHandyFix**
 
