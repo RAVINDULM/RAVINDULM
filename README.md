@@ -2,7 +2,7 @@
 <h3 align="center">3rd year Computer Science Undergraduate @ University of Colombo School of Computing</h3>
 <h3 align="left">More About Me 🙂</h3>
 
-Profile Views : [![HitCount](https://hits.dwyl.com/RAVINDULM/RAVINDULM.svg?style=flat-square)](http://hits.dwyl.com/RAVINDULM/RAVINDULM)
+![](https://komarev.com/ghpvc/?username=RAVINDULM)
 
 - 🔭 I’m currently working as a Intern Software Engineer @**Entgra.io**
 
