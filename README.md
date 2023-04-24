@@ -1,21 +1,22 @@
 <h1 align="center">Hey there! 👋, I'm Ravindu Lakshan Madhubhashana</h1>
-<h3 align="center">Intern Software Engineer @Entgra(PVT)LTD</h3>
+<h3 align="center">Computer Science Undergraduate at UCSC</h3>
+<h3 align="center">Trainee Software Engineer @Entgra(PVT)LTD</h3>
 <h3 align="center">3rd year Computer Science Undergraduate @ University of Colombo School of Computing</h3>
 <h3 align="left">More About Me 🙂</h3>
 
 ![](https://komarev.com/ghpvc/?username=RAVINDULM)
 
-- 🔭 I’m currently working as a Intern Software Engineer @**Entgra.io**
+- 🔭 I’m currently working as a Trainee Software Engineer @**Entgra.io**
 
 - 🌱 I’m currently learning **Devops, Angular, ReactJS, React Native, .NET, Firebase & Flutter**
 
-- 👯 I’m currently collaborating on **DR_DOER**
+<!-- - 👯 I’m currently collaborating on **DR_DOER** -->
 
 <!-- - 📝 I regularly write articles on (Since 2022) [https://medium.com/@ravindu.kp](https://medium.com/@ravindu.kp) -->
 
 - 📫 How to reach me **ravindu.kp@gmail.com**
 
-- 📄 Download my resume  [https://bit.ly/3AGeKeE](https://bit.ly/3AGeKeE)
+<!-- - 📄 Download my resume  [https://bit.ly/3AGeKeE](https://bit.ly/3AGeKeE) -->
 
 <h3 align="left">Familiar Technologies</h3>
 
