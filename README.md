@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=RAVINDULM)
 
-<!-- - - 🔭 I’m currently working as a Trainee Software Engineer @**Entgra.io** -->
+<!-- - - 🔭 I’m was worked as a Software Engineer Intern @**Entgra.io** -->
 
 - 🌱 I’m currently learning **Devops, Angular, ReactJS, React Native, .NET, Firebase & Flutter**
 
