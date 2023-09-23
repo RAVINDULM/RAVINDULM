@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋, I'm Ravindu Lakshan Madhubhashana</h1>
-<h3 align="center">Trainee Software Engineer @Entgra(PVT)LTD</h3>
-<h3 align="center">Final year Computer Science Undergraduate @ University of Colombo School of Computing</h3>
+<h3 align="center"> Former Software Engineer - Intern @Entgra(PVT)LTD</h3>
+<h3 align="center">Computer Science Graduate (University of Colombo School of Computing)</h3>
 <h3 align="left">More About Me 🙂</h3>
 
 ![](https://komarev.com/ghpvc/?username=RAVINDULM)
