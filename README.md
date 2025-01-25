@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋, I'm Ravindu Madhubhashana</h1>
-<h3 align="center"> Former Software Engineer - Intern @Entgra(PVT)LTD</h3>
+<h3 align="center">Software Engineer @iCan LankaLTD</h3>
 <h3 align="center">Computer Science Graduate (University of Colombo School of Computing)</h3>
 <h3 align="left">More About Me 🙂</h3>
 
@@ -7,7 +7,7 @@
 
 <!-- - - 🔭 I’m was worked as a Software Engineer Intern @**Entgra.io** -->
 
-- 🌱 I’m currently learning **Devops, Angular, ReactJS, React Native, .NET, Firebase & Flutter**
+- 🌱 I’m currently learning **Devops, ReactJS, React Native, .NET, Firebase & Flutter**
 
 <!-- - 👯 I’m currently collaborating on **DR_DOER** -->
 
