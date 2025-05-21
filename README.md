@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋, I'm Ravindu Madhubhashana</h1>
 <h3 align="center">Software Engineer @iCan Lanka</h3>
 <h3 align="center">Computer Science Graduate (University of Colombo School of Computing)</h3>
-<h3 align="left">More About Me 🙂</h3>
+<h3 align="center"> Master of Science in Computing (University of Colombo School of Computing)</h3><h3 align="left">More About Me 🙂</h3>
 
 ![](https://komarev.com/ghpvc/?username=RAVINDULM)
 
